@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Injury Severity Score (ISS)",
+    "id": "ISS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["TRA"]
+  },
+  {
+    "title": "Glasgow Coma Score (GCS)",
+    "id": "GCS",
+    "subtitle": "",
+    "type": "SCR",
+    "category": ["TRA"]
+  }
+]
