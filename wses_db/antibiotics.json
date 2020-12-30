@@ -1,9 +1,1 @@
-[
-  {
-    "subtitle": "Vaccinations and antibiotic prophylaxis",
-    "id": "splenic_trauma",
-    "type": "ANT_IMG",
-    "title": "Splenic trauma",
-    "category": ["TRA"]
-  }
-]
+[{"subtitle":"Vaccinations and antibiotic prophylaxis","id":"splenic_trauma","type":"ANT_IMG","title":"Splenic trauma","category":["TRA"]},{"subtitle":"Management of acute cholecystitis","id":"antimicrobial_regimens_suggested_for_acc","type":"ANT_IMG","title":"Antimicrobial regimens suggested for ACC","category":["ABD"]}]
