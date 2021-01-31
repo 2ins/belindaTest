@@ -87,7 +87,7 @@
       "category":[
          "ABD"
       ]
-   }
+   },
    {
       "subtitle": "",
       "id": "intraoperative",
@@ -97,4 +97,77 @@
           "SKN"
       ]
   },
+  
+  {
+   "subtitle": "",
+   "id": "abdominal_wall_hernias",
+   "type": "REC",
+   "title": "management of iatrogenic colonoscopy perforation",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "appendicitis",
+   "type": "REC",
+   "title": "Acute appendicitis",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "Clostidrium",
+   "type": "REC",
+   "title": "Clostridioides (Clostridium) difficile infection in surgical patients",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "colon_rectal_cancer_emergencies",
+   "type": "REC",
+   "title": "colon and rectal cancer emergencies: obstruction and perforation",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "abdominal_wall_hernias",
+   "type": "REC",
+   "title": "management of iatrogenic colonoscopy perforation",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "ischemia",
+   "type": "REC",
+   "title": "Acute Mesentric Ischemia",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "peptic",
+   "type": "REC",
+   "title": "Perforated peptic ulcer",
+   "category": [
+       "ABD"
+   ]
+},
+{
+   "subtitle": "",
+   "id": "severe_acute_pancreatitis",
+   "type": "REC",
+   "title": "emergency repair of complicated abdominal wall hernias",
+   "category": [
+       "ABD"
+   ]
+}
 ]
